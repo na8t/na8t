@@ -1,4 +1,4 @@
-### Hi there, I'm Naveen 👋
+### Hi, I'm Naveen 👋
 
 I'm a GenAI Engineer focused on building robust AI architectures and scalable infrastructure. I thrive at the intersection of data, software development, and cloud operations, and I'm actively looking to collaborate on open-source projects. 
 
